@@ -1,5 +1,9 @@
 ### Hello World 👋
 
+- 🔭 I’m currently working on rewriting a legacy PHP application to an Angular frontend and ASP.NET Core API backend
+- 🌱 I’m currently studying for AZ-900: Microsoft Azure Fundamentals
+- ⚡ Fun fact: People call me lettuce because of my first name.
+
 <!--
 **romayneeastmond/romayneeastmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
