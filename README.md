@@ -1,8 +1,12 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on rewriting a legacy PHP application to an Angular frontend and ASP.NET Core API backend
+Here you can find examples of personal projects covering a number of technologies and approaches. 
+
+- 🔭 I’m currently rewriting a PHP app to an Angular SPA & ASP.NET Core API
 - 🌱 I’m currently studying for AZ-900: Microsoft Azure Fundamentals
-- ⚡ Fun fact: People call me lettuce because of my first name.
+- 👯 I’m looking to collaborate on anything Jamstack related
+- 💬 Ask me about anything except Solr 🤔
+- ⚡ Fun fact: People call me lettuce because of my first name
 
 <!--
 **romayneeastmond/romayneeastmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
