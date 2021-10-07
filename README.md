@@ -1,4 +1,4 @@
-### Please Leave a *beep* Before the Message 👋
+###  👋 Please Leave a **beep** Before the Message Queue
 
 - 🔭 I’m currently rewriting a PHP app to an Angular SPA & ASP.NET Core API
 - 🌱 I’m currently studying for AZ-900: Microsoft Azure Fundamentals
