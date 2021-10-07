@@ -1,6 +1,4 @@
-### Hello World 👋
-
-Here you can find examples of personal projects covering a number of technologies and approaches. 
+### Please Leave a *beep* Before the Message 👋
 
 - 🔭 I’m currently rewriting a PHP app to an Angular SPA & ASP.NET Core API
 - 🌱 I’m currently studying for AZ-900: Microsoft Azure Fundamentals
