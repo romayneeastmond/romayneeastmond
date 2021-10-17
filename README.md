@@ -3,7 +3,7 @@
 - 🔭 I’m currently rewriting a PHP app to an Angular SPA & ASP.NET Core API
 - 🌱 I’m currently studying for AZ-900: Microsoft Azure Fundamentals
 - 👯 I’m looking to collaborate on anything Jamstack related
-- 💬 Ask me about anything except Solr 🤔
+- 💬 Ask me about Jamstack
 - ⚡ Fun fact: People call me lettuce because of my first name
 
 <!--
