@@ -12,6 +12,8 @@ Microsoft Certified Solutions Developer, Certified Sitecore Developer, Bachelor 
 
 #### Weekend Projects
 
+- [A Next.js project that connects to a MongoDB and uses Material UI components.](https://github.com/romayneeastmond/mongodb-react-nextjs-mui-demo/)
+
 - [Hello World Node.js project, running on Express to show a map generated from Leaflet and MapBox.](https://github.com/romayneeastmond/helloworld-leaflet-mapbox-express-nodejs-demo/)
 
 - [An ASP.NET Core project that uses Microsoft.AspNetCore.Identity for authentication.](https://github.com/romayneeastmond/application-core-identity)
