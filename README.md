@@ -12,7 +12,7 @@ Microsoft Certified Solutions Developer, Certified Sitecore Developer, Bachelor 
 
 #### Weekend Projects
 
-- [Serverless AWS Lambda functions running on Express that connects to a MongoDB database.](https://github.com/romayneeastmond/serverless-aws-lambda-express-mongodb/)
+- [Severless Framework AWS Lambda Functions with Express, Apollo GraphQL, MongoDB, and Jest.](https://github.com/romayneeastmond/serverless-aws-lambda-express-mongodb/)
  
 - [A Next.js project that connects to a MongoDB database and uses Material UI components.](https://github.com/romayneeastmond/mongodb-react-nextjs-mui-demo/)
 
