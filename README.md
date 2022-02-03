@@ -16,6 +16,8 @@ Microsoft Certified Solutions Developer, Certified Sitecore Developer, Bachelor 
  
 - [A Next.js project that connects to a MongoDB database and uses Material UI components.](https://github.com/romayneeastmond/mongodb-react-nextjs-mui-demo/)
 
+- [Severless Framework Azure Functions, Sites Heartbeat.](https://github.com/romayneeastmond/serverless-azure-function-nodejs-heartbeat/)
+
 - [Hello World Node.js project, running on Express to show a map generated from Leaflet and MapBox.](https://github.com/romayneeastmond/helloworld-leaflet-mapbox-express-nodejs-demo/)
 
 - [An ASP.NET Core project that uses Microsoft.AspNetCore.Identity for authentication.](https://github.com/romayneeastmond/application-core-identity)
