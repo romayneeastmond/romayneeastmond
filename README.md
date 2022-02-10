@@ -18,6 +18,8 @@ Microsoft Certified Solutions Developer, Certified Sitecore Developer, Bachelor 
 
 - [Severless Framework Azure Functions.](https://github.com/romayneeastmond/serverless-azure-function-nodejs-heartbeat/)
 
+- [A React application that uses Firebase and Firestore for authentication.](https://github.com/romayneeastmond/react-firebase-authentication)
+
 - [Hello World Node.js project, running on Express to show a map generated from Leaflet and MapBox.](https://github.com/romayneeastmond/helloworld-leaflet-mapbox-express-nodejs-demo/)
 
 - [An ASP.NET Core project that uses Microsoft.AspNetCore.Identity for authentication.](https://github.com/romayneeastmond/application-core-identity)
