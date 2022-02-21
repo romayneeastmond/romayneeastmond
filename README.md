@@ -12,6 +12,8 @@ Microsoft Certified Solutions Developer, Certified Sitecore Developer, Bachelor 
 
 #### Weekend Projects
 
+- [A Monorepo project for experimenting with Azure Container Registry & Azure Kubernetes Service.](https://github.com/romayneeastmond/monorepo-microservices-demo)
+
 - [Severless Framework AWS Lambda Functions with Express, Apollo GraphQL, MongoDB, and Jest.](https://github.com/romayneeastmond/serverless-aws-lambda-express-mongodb/)
  
 - [A Next.js project that connects to a MongoDB database and uses Material UI components.](https://github.com/romayneeastmond/mongodb-react-nextjs-mui-demo/)
