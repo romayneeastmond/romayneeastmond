@@ -8,7 +8,7 @@ MBA Candidate, Technical Team Lead, Microsoft Certified Solutions Developer, Cer
 - 🔭 I’m currently rewriting a Sitecore XP project to Sitecore XM Cloud
 - 👯 I’m looking to learn Kotlin and Golang in the coming year
 - 🌱 Successfully completed SharePoint Framework (SPFx) project
-- 💬 Ask me about leadership or programming related
+- 💬 Ask me anything about leadership or programming related
 - ⚡ Fun fact: People call me lettuce because of my first name
 
 #### Weekend Projects
