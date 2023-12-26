@@ -1,13 +1,14 @@
 ## Please Leave a \*Beep\* Before the Message Queue 👋 
 
-Microsoft Certified Solutions Developer, Certified Sitecore Developer, Bachelor of Science, and Senior Developer with over 20 years of programming experience.
+MBA Candidate, Technical Team Lead, Microsoft Certified Solutions Developer, Certified Sitecore XM Cloud Developer, Bachelor of Science with over 20 years of programming experience, and 5 years management and project management experience.
 
 #### Recent News
 
-- 🌱 I’m currently figuring out SharePoint Framework (SPFx) with React
-- 🔭 I’m currently rewriting a PHP app to an Angular SPA & ASP.NET Core API
-- 👯 I’m looking to collaborate on anything Jamstack related
-- 💬 Ask me about Jamstack
+- 😵 Always writing essays these days, APA format of course
+- 🔭 I’m currently rewriting a Sitecore XP project to Sitecore XM Cloud
+- 👯 I’m looking to learn Kotlin and Golang in the coming year
+- 🌱 Successfully completed SharePoint Framework (SPFx) project
+- 💬 Ask me about leadership or programming related
 - ⚡ Fun fact: People call me lettuce because of my first name
 
 #### Weekend Projects
@@ -31,6 +32,9 @@ Microsoft Certified Solutions Developer, Certified Sitecore Developer, Bachelor 
 
 #### Education and Certifications
 
+- 2023, September - Master of Business Administration (MBA), Candidate
+- 2024, January - Certified Sitecore XM Cloud Developer
+- 2023, December - Microsoft Certified Azure AI Fundamentals
 - 2021, November - Microsoft Certified Azure Fundamentals
 - 2018, January - Microsoft Certified Solutions Developer
 - 2015, November - Certified Sitecore Windows .NET Developer, CMS
