@@ -40,5 +40,5 @@ MBA Candidate, Technical Team Lead, Microsoft Certified Solutions Developer, Cer
 - 2015, November - Certified Sitecore Windows .NET Developer, CMS
 - 2015, September - Project Management Extension Certificate
 - 2012, February - Pillars of Management Certificate 
-- 2005, June - Bachelor's Degree of Science in Computer Information Systems
+- 2005, June - Bachelor Degree of Science in Computer Information Systems
  
