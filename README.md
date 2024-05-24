@@ -1,6 +1,6 @@
 ## Please Leave a \*Beep\* Before the Message Queue 👋 
 
-MBA Candidate, Technical Team Lead, Microsoft Certified Solutions Developer, Certified Sitecore XM Cloud Developer, Bachelor of Science; with over 20 years of programming experience and 5 years management and project management experience.
+MBA Candidate, Technical Team Lead, Microsoft Certified Solutions Developer, Microsoft Certified Data Scientist Associate, Certified Sitecore XM Cloud Developer, Bachelor of Science; with over 20 years of programming experience and 5 years management and project management experience.
 
 #### Recent News
 
@@ -32,7 +32,10 @@ MBA Candidate, Technical Team Lead, Microsoft Certified Solutions Developer, Cer
 
 #### Education and Certifications
 
-- 2023, September - Master of Business Administration (MBA), Candidate
+- 2025, June - Master of Business Administration (MBA), Candidate
+- 2024, May - Microsoft Certified Azure Data Scientist Associate
+- 2024, March - Amazon Certified Cloud Practitioner
+- 2024, March - Salesforce Certified Cloud Practitioner
 - 2024, January - Certified Sitecore XM Cloud Developer
 - 2023, December - Microsoft Certified Azure AI Fundamentals
 - 2021, November - Microsoft Certified Azure Fundamentals
