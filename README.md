@@ -34,6 +34,9 @@ MBA Candidate, Technical Team Lead, Microsoft Certified Solutions Developer, Mic
 #### Education and Certifications
 
 - 2025, June - Master of Business Administration (MBA), Candidate
+- 2024, October - Certified Project Management Professional (PMP)
+- 2024, September - ITIL 4 Foundation Certificate in IT Service Management
+- 2024, September - Google Certified Cloud Digital Leader
 - 2024, May - Microsoft Certified Azure Data Scientist Associate
 - 2024, March - Amazon Certified Cloud Practitioner
 - 2024, March - Salesforce Certified Cloud Practitioner
