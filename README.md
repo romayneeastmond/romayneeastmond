@@ -6,7 +6,7 @@ Technologist with over 20 years of programming experience and 5 years management
 
 #### Recent News
 
-- 👯 I’m currently creating MCP Servres and AI Tools
+- 👯 I’m currently creating MCP Servers and AI Tooling
 - 🔭 Completed rewriting a Sitecore XP project to SitecoreAI (Sitecore XM Cloud)
 - 🌱 Successfully completed SharePoint Framework (SPFx) project
 - 💬 Ask me anything about leadership or programming related
