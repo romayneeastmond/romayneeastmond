@@ -19,11 +19,6 @@ Experienced leading distributed engineering teams and delivering AI-powered prod
 
 ---
 
-<!-- Two-column layout -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔭 What I'm Building
 
 - 👯 Building **MCP Servers & AI Tooling** for agentic systems
@@ -68,8 +63,7 @@ Experienced leading distributed engineering teams and delivering AI-powered prod
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+
 
 ### 🧪 Weekend Projects
 
@@ -86,9 +80,7 @@ Experienced leading distributed engineering teams and delivering AI-powered prod
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romayneeastmond&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)](https://github.com/romayneeastmond)
 
-</td>
-</tr>
-</table>
+
 
 ---
 
