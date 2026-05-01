@@ -3,8 +3,7 @@
 
 # Romayne Eastmond, MBA, B.Sc., PMP
 
-20+ years building production software across full stack, cloud, and enterprise platforms.Focused on agentic AI systems, RAG architectures, MCP tooling, and LLM integration.
-Experienced leading distributed engineering teams and delivering AI-powered products in regulated environments.
+20+ years building production software across full stack, cloud, and enterprise platforms. Focused on agentic AI systems, RAG architectures, MCP tooling, and LLM integration. Experienced leading distributed engineering teams and delivering AI-powered products in regulated environments.
 
 <p>
   <img src="https://img.shields.io/badge/MBA-blue?style=flat-square&labelColor=0d1117&color=58a6ff" />
@@ -68,20 +67,22 @@ Experienced leading distributed engineering teams and delivering AI-powered prod
 
 ### 🧪 Weekend Projects
 
-| Repo                                                                                                                                                                                       | Stack                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [**multimodel-llm-react-vite-concept**](https://github.com/romayneeastmond/multimodel-llm-react-vite-concept) — AI interface that goes beyond simple chat                                  | `Azure` `CosmoDb` `Agentic AI` `React`                    |
-| [**multimodel-llm-react-vite-teams**](https://github.com/romayneeastmond/multimodel-llm-react-vite-teams) — A Microsoft Teams Tab application                                              | `Azure` `React` `Microsoft Teams` `TypeScript`            |
-| [**azure-python-serverless-functions**](https://github.com/romayneeastmond/azure-python-serverless-functions) — Serverless Azure Functions written in Python for RAG                       | `Python` `OpenAI` `RAG` `Semantic Search` `Vector Search` |
-| [**document-analysis-react-vite-concept**](https://github.com/romayneeastmond/document-analysis-react-vite-concept) — Powerful, dual-pane AI assistant designed for deep document analysis | `Vite` `MCP` `LLM` `React` `LLM` `AI Powered Editor`      |
+| Repo                                                                                                                                                                                            | Stack                                                           |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| [**multimodel-llm-react-vite-concept**](https://github.com/romayneeastmond/multimodel-llm-react-vite-concept) — AI interface that goes beyond simple chat                                       | `Azure` `CosmoDb` `Agentic AI` `React`                          |
+| [**multimodel-llm-react-vite-teams**](https://github.com/romayneeastmond/multimodel-llm-react-vite-teams) — A Microsoft Teams Tab application                                                   | `Azure` `React` `Microsoft Teams` `TypeScript`                  |
+| [**azure-python-serverless-functions**](https://github.com/romayneeastmond/azure-python-serverless-functions) — Serverless Azure Functions written in Python for RAG                            | `Python` `OpenAI` `RAG` `Semantic Search` `Vector Search`       |
+| [**document-analysis-react-vite-concept**](https://github.com/romayneeastmond/document-analysis-react-vite-concept) — Powerful, dual-pane AI assistant designed for deep document analysis      | `Vite` `MCP` `LLM` `React` `LLM` `AI Powered Editor`            |
+| [**anthropic-express-proxy-server**](https://github.com/romayneeastmond/anthropic-express-proxy-server) — Express.js server that acts as a proxy to call Anthropic Messages API                 | `Claude` `Anthropic` `Azure` `Express` `LLM`                    |
+| [**football-dashboard-htmx-tailwind-python**](https://github.com/romayneeastmond/football-dashboard-htmx-tailwind-python) — Responsive football dashboard built with web scraping               | `Python` `Flask` `HTMX` `Tailwind CSS`                          |
+| [**monorepo-microservices-demo**](https://github.com/romayneeastmond/monorepo-microservices-demo) — Monorepo project for experimenting with Azure Container Registry & Azure Kubernetes Service | `Kubernetes` `Docker` `ACR` `AKS` `Monorepo` `RabbitMQ`         |
+| [**serverless-aws-lambda-express-mongodb**](hhttps://github.com/romayneeastmond/serverless-aws-lambda-express-mongodb) — Severless Framework AWS Lambda Functions                               | `Amazon (AWS)` `Lambda` `Serverless` `MongoDB` `Apollo GraphQL` |
 
 ---
 
 ### 📊 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romayneeastmond&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)](https://github.com/romayneeastmond)
-
-
 
 ---
 
