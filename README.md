@@ -62,7 +62,8 @@ Experienced leading distributed engineering teams and delivering AI-powered prod
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
-
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 
 ### 🧪 Weekend Projects
@@ -70,15 +71,15 @@ Experienced leading distributed engineering teams and delivering AI-powered prod
 | Repo                                                                                                                                                                                       | Stack                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [**multimodel-llm-react-vite-concept**](https://github.com/romayneeastmond/multimodel-llm-react-vite-concept) — AI interface that goes beyond simple chat                                  | `Azure` `CosmoDb` `Agentic AI` `React`                    |
-| [**multimodel-llm-react-vite-teams**](https://github.com/romayneeastmond/multimodel-llm-react-vite-teams) — A Microsoft Teams Tab application                                              | `Azure` `React` `Microsoft Teams`                         |
+| [**multimodel-llm-react-vite-teams**](https://github.com/romayneeastmond/multimodel-llm-react-vite-teams) — A Microsoft Teams Tab application                                              | `Azure` `React` `Microsoft Teams` `TypeScript`            |
 | [**azure-python-serverless-functions**](https://github.com/romayneeastmond/azure-python-serverless-functions) — Serverless Azure Functions written in Python for RAG                       | `Python` `OpenAI` `RAG` `Semantic Search` `Vector Search` |
-| [**document-analysis-react-vite-concept**](https://github.com/romayneeastmond/document-analysis-react-vite-concept) — Powerful, dual-pane AI assistant designed for deep document analysis | `Vite` `MCP` `LLM`                                        |
+| [**document-analysis-react-vite-concept**](https://github.com/romayneeastmond/document-analysis-react-vite-concept) — Powerful, dual-pane AI assistant designed for deep document analysis | `Vite` `MCP` `LLM` `React` `LLM` `AI Powered Editor`      |
 
 ---
 
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romayneeastmond&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)](https://github.com/romayneeastmond)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romayneeastmond&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)](https://github.com/romayneeastmond)
 
 
 
@@ -86,22 +87,26 @@ Experienced leading distributed engineering teams and delivering AI-powered prod
 
 ### 🎓 Education & Certifications
 
-| Year | Certification                                           | Issuer    |
-|------|---------------------------------------------------------|-----------|
-| 2026 | Microsoft Certified: AI Transformation Leader           | Microsoft |
-| 2026 | Microsoft Certified: AI Business Professional           | Microsoft |
-| 2025 | Master of Business Administration (MBA)                 | —         |
-| 2024 | Project Management Professional (PMP)                   | PMI       |
-| 2024 | ITIL® 4 Foundation Certificate in IT Service Management | AXELOS    |
-| 2024 | Microsoft Certified: Azure Data Scientist Associate     | Microsoft |
-| 2024 | Certified Sitecore XM Cloud Developer                   | Sitecore  |
-| 2023 | Microsoft Certified: Azure AI Fundamentals              | Microsoft |
-| 2021 | Microsoft Certified: Azure Fundamentals                 | Microsoft |
-| 2018 | Microsoft Certified Solutions Developer (MCSD)          | Microsoft |
-| 2015 | Certified Sitecore Windows .NET Developer, CMS          | Sitecore  |
-| 2015 | Project Management Extension Certificate                | —         |
-| 2012 | Pillars of Management Certificate                       | —         |
-| 2005 | Bachelor of Science in Computer Information Systems     | —         |
+| Year | Certification                                           | Issuer              |
+|------|---------------------------------------------------------|---------------------|
+| 2026 | Microsoft Certified: AI Transformation Leader           | Microsoft           |
+| 2026 | Microsoft Certified: AI Business Professional           | Microsoft           |
+| 2025 | Master of Business Administration (MBA)                 | —                   |
+| 2024 | Project Management Professional (PMP)                   | PMI                 |
+| 2024 | Cloud Digital Leader Certification                      | Google              |
+| 2024 | Academy Accreditation - Generative AI Fundamentals      | Databricks          |
+| 2024 | ITIL® 4 Foundation Certificate in IT Service Management | AXELOS              |
+| 2024 | Microsoft Certified: Azure Data Scientist Associate     | Microsoft           |
+| 2024 | AWS Certified Cloud Practitioner                        | Amazon Web Services |
+| 2024 | Certified Sitecore XM Cloud Developer                   | Sitecore            |
+| 2024 | Salesforce Certified AI Associate                       | Salesforce          |
+| 2023 | Microsoft Certified: Azure AI Fundamentals              | Microsoft           |
+| 2021 | Microsoft Certified: Azure Fundamentals                 | Microsoft           |
+| 2018 | Microsoft Certified Solutions Developer (MCSD)          | Microsoft           |
+| 2015 | Certified Sitecore Windows .NET Developer, CMS          | Sitecore            |
+| 2015 | Project Management Extension Certificate                | —                   |
+| 2012 | Pillars of Management Certificate                       | —                   |
+| 2005 | Bachelor of Science in Computer Information Systems     | —                   |
 
 ---
 
