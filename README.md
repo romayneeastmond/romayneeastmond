@@ -76,7 +76,7 @@
 | [**anthropic-express-proxy-server**](https://github.com/romayneeastmond/anthropic-express-proxy-server) — Express.js server that acts as a proxy to call Anthropic Messages API                 | `Claude` `Anthropic` `Azure` `Express` `LLM`                    |
 | [**football-dashboard-htmx-tailwind-python**](https://github.com/romayneeastmond/football-dashboard-htmx-tailwind-python) — Responsive football dashboard built with web scraping               | `Python` `Flask` `HTMX` `Tailwind CSS`                          |
 | [**monorepo-microservices-demo**](https://github.com/romayneeastmond/monorepo-microservices-demo) — Monorepo project for experimenting with Azure Container Registry & Azure Kubernetes Service | `Kubernetes` `Docker` `ACR` `AKS` `Monorepo` `RabbitMQ`         |
-| [**serverless-aws-lambda-express-mongodb**](hhttps://github.com/romayneeastmond/serverless-aws-lambda-express-mongodb) — Severless Framework AWS Lambda Functions                               | `Amazon (AWS)` `Lambda` `Serverless` `MongoDB` `Apollo GraphQL` |
+| [**serverless-aws-lambda-express-mongodb**](https://github.com/romayneeastmond/serverless-aws-lambda-express-mongodb) — Severless Framework AWS Lambda Functions                                | `Amazon (AWS)` `Lambda` `Serverless` `MongoDB` `Apollo GraphQL` |
 
 ---
 
