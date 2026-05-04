@@ -38,7 +38,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=next.js&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-9b4993?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white) 
+![HTMX](https://img.shields.io/badge/HTMX-172554?style=flat-square&logo=htmx&logoColor=white)
 
 **AI & Agentic**  
 ![MCP](https://img.shields.io/badge/MCP%20Protocol-bc8cff?style=flat-square&labelColor=1a0533&color=bc8cff)
@@ -47,6 +48,7 @@
 ![Azure AI](https://img.shields.io/badge/Azure%20AI%20Foundry-bc8cff?style=flat-square&labelColor=1a0533&color=bc8cff)
 ![Claude](https://img.shields.io/badge/Claude-bc8cff?style=flat-square&labelColor=1a0533&color=bc8cff)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-bc8cff?style=flat-square&labelColor=1a0533&color=bc8cff)
+![Ollama](https://img.shields.io/badge/Ollama-1A0533?style=flat-square&labelColor=1a0533&color=bc8cff)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -62,8 +64,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
+![SQL Server](https://img.shields.io/badge/SQL%20Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) 
+![Vector DB](https://img.shields.io/badge/Vector%20Database-9c27b0?style=flat-square&logo=vector&logoColor=white)
 
 ### 🧪 Weekend Projects
 
