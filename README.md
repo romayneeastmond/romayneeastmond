@@ -18,6 +18,12 @@
 
 ---
 
+### 🌎 Portfolio Website
+
+Portfolio hosted on Vercel [Romayne Eastmond | Engineering Leader & AI Systems Practitioner](https://romayneeastmond-portfolio-react-nex.vercel.app/).
+
+---
+
 ### 🔭 What I'm Building
 
 - 👯 Building **MCP Servers & AI Tooling** for agentic systems
@@ -79,6 +85,12 @@
 | [**football-dashboard-htmx-tailwind-python**](https://github.com/romayneeastmond/football-dashboard-htmx-tailwind-python) — Responsive football dashboard built with web scraping               | `Python` `Flask` `HTMX` `Tailwind CSS`                          |
 | [**monorepo-microservices-demo**](https://github.com/romayneeastmond/monorepo-microservices-demo) — Monorepo project for experimenting with Azure Container Registry & Azure Kubernetes Service | `Kubernetes` `Docker` `ACR` `AKS` `Monorepo` `RabbitMQ`         |
 | [**serverless-aws-lambda-express-mongodb**](https://github.com/romayneeastmond/serverless-aws-lambda-express-mongodb) — Severless Framework AWS Lambda Functions                                | `Amazon (AWS)` `Lambda` `Serverless` `MongoDB` `Apollo GraphQL` |
+
+---
+
+### 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romayneeastmond&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)](https://github.com/romayneeastmond)
 
 ---
 
