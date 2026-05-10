@@ -88,12 +88,6 @@ Portfolio hosted on Vercel [Romayne Eastmond | Engineering Leader & AI Systems P
 
 ---
 
-### 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romayneeastmond&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)](https://github.com/romayneeastmond)
-
----
-
 ### 🎓 Education & Certifications
 
 | Year | Certification                                           | Issuer              |
