@@ -3,7 +3,7 @@
 
 # Romayne Eastmond, MBA, B.Sc., PMP
 
-20+ years building production software across full stack, cloud, and enterprise platforms. Focused on agentic AI systems, RAG architectures, MCP tooling, and LLM integration. Experienced leading distributed engineering teams and delivering AI-powered products in regulated environments.
+25+ years building production software across full stack, cloud, and enterprise platforms. Focused on agentic AI systems, RAG architectures, MCP tooling, and LLM integration. Experienced leading distributed engineering teams and delivering AI-powered products in regulated environments.
 
 <p>
   <img src="https://img.shields.io/badge/MBA-blue?style=flat-square&labelColor=0d1117&color=58a6ff" />
